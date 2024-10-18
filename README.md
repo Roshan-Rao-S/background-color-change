@@ -1,42 +1,59 @@
-# background-color-change
+# Background Color Change
+
 This is a simple web project that changes the background color to a gradient when the button is clicked. It is created using HTML, CSS, and JavaScript.
 
-Table of Contents
-Demo
-Features
-Technologies Used
-Installation
-Usage
-Contributing
-License
-Demo
+## Table of Contents
 
-Features
-Random gradient background color change on button click.
-Responsive design for various screen sizes.
-Technologies Used
-HTML
-CSS
-JavaScript
-Installation
+- [Demo](#demo)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Demo
+
+![image](https://github.com/user-attachments/assets/c5609bc2-b51d-4956-93c8-0446aa9d60be)
+
+
+## Features
+
+- Random gradient background color change on button click.
+- Responsive design for various screen sizes.
+
+## Technologies Used
+
+- **HTML**
+- **CSS**
+- **JavaScript**
+
+## Installation
+
 To run this project locally, follow these steps:
 
-Clone the repository:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Roshan-Rao-S/background-color-change.git
+   ```
 
-bash
-Copy code
-git clone https://github.com/Roshan-Rao-S/background-color-change.git
-Navigate to the project directory:
+2. Navigate to the project directory:
+   ```bash
+   cd background-color-change
+   ```
 
-bash
-Copy code
-cd background-color-change
-Usage
-Open the index.html file in your web browser to use the background color change feature.
+## Usage
 
-Contributing
+Open the `index.html` file in your web browser to use the background color change feature.
+
+## Contributing
+
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-License
+## License
+
 This project is licensed under the MIT License. See the LICENSE file for details.
 
+---
+
+This now highlights that you’ve used HTML, CSS, and JavaScript!
