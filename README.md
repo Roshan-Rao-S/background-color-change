@@ -54,6 +54,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
----
 
-This now highlights that you’ve used HTML, CSS, and JavaScript!
